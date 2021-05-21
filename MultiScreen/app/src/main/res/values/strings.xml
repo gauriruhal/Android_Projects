@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MultiScreen</string>
+    <string name="welcome_to_my_cafe">Welcome to My Cafe</string>
+    <string name="place_your_order">Place Your Order</string>
+    <string name="item_3">item 3</string>
+    <string name="item_2">item 2</string>
+    <string name="item1">Item1</string>
+</resources>
